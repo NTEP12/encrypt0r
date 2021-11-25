@@ -1,1 +1,1 @@
-This is a encryptor i've coded in python.
+This is a encryptor i've coded in python. Pretty basic stuff.
