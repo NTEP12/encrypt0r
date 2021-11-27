@@ -1,1 +1,1 @@
-A encryptor i've coded in python. Pretty basic stuff.
+A hashing program i've coded in python. Pretty basic stuff.
